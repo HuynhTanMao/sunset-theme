@@ -1,2 +1,7 @@
+<<<<<<< Updated upstream
 baofsa sfsfasdf fsdafa
 master1
+=======
+baofsa sfsfasdf fsdafa mao 
+mao
+>>>>>>> Stashed changes
